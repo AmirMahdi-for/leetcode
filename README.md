@@ -8,15 +8,6 @@ Repository Structure
 
 Each problem has its own directory containing the solution and relevant information.
 
-leetcode/
-├── README.md
-├── two-sum/
-│   └── main.go
-├── palindrome-number/
-│   └── main.go
-└── reverse-integer/
-    └── main.go
-
 Languages
 
 * Go (Golang)
